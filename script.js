@@ -1,0 +1,1 @@
+// JS for search and product filters
